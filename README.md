@@ -17,3 +17,7 @@ USED SKILLS
 14) Ternary operator
 15) Polymorphism
 16) Commented via XML
+
+NOTE:
+-------
+* NET 7
