@@ -1,5 +1,4 @@
 # GameSimulation
-I have remade broken solution. Now works clean
 USED SKILLS
 -------------------
 1) if,else
