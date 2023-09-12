@@ -8,5 +8,12 @@ namespace GameSimulation
 {
     internal interface IPlayer
     {
+        string nickName { get; }
+        int hitpoints { get; }
+        int attackDamage { get; }
+        int resistanceChampion { get; }
+        string Attack(IPlayer player);
+        string Defend(int attackDamage);
+        bool alive { get; }
     }
 }

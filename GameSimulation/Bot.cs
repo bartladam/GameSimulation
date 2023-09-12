@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GameSimulation
 {
-    internal class Bot
+    internal class Bot:Player
     {
+        public Bot(string nickName, Player.gameChampions gameChampion) : base(nickName + " - BOT", gameChampion)
+        {
+
+        }
     }
 }
