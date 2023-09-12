@@ -20,4 +20,4 @@ USED SKILLS
 
 NOTE:
 -------
-* NET 7
+* .NET 7
