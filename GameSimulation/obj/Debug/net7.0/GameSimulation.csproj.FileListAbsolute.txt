@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\GameSimulation\GameSimulation\bin\Debug\net7.0\GameSimulation.exe
+D:\Visual Studio Projects\GameSimulation\GameSimulation\bin\Debug\net7.0\GameSimulation.deps.json
+D:\Visual Studio Projects\GameSimulation\GameSimulation\bin\Debug\net7.0\GameSimulation.runtimeconfig.json
+D:\Visual Studio Projects\GameSimulation\GameSimulation\bin\Debug\net7.0\GameSimulation.dll
+D:\Visual Studio Projects\GameSimulation\GameSimulation\bin\Debug\net7.0\GameSimulation.pdb
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.AssemblyInfo.cs
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.dll
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\refint\GameSimulation.dll
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.pdb
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\GameSimulation.genruntimeconfig.cache
+D:\Visual Studio Projects\GameSimulation\GameSimulation\obj\Debug\net7.0\ref\GameSimulation.dll

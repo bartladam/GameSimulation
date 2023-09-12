@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GameSimulation
 {
+    /// <summary>
+    /// Seted stats for chosen champion
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     internal class SetChampionStats<T>
     {
         /// <summary>
